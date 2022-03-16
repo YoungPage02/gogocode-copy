@@ -4,6 +4,7 @@
 
 ## GoGoCode 是什么？
 我在b分支添了一句话
+我又在a中加一句话，嘿嘿嘿!!!
 [English version of README](README.md)
 
 GoGoCode 是一个基于 AST 的 JavaScript/Typescript/HTML 代码转换工具，但相较于同类，它提供了更符合直觉的 API
